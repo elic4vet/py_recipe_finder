@@ -17,7 +17,6 @@ suggestions, feel free to come up with your own ideas and extend the program how
 ● Ask the user additional questions to decide which recipe they should choose
 ● Cross-reference the ingredient against the Edamam nutrition analysis API
 ● Use a different searchable API (suggestions in useful resources)
-
 '''
 
 import requests
