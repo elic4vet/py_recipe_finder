@@ -1,0 +1,42 @@
+[
+    {
+        "label": "Pasta alla Gricia Recipe",
+        "uri": "http://www.seriouseats.com/recipes/2009/02/seriously-italian-pasta-alla-gricia-recipe.html"
+    },
+    {
+        "label": "Pasta Frittata Recipe",
+        "uri": "http://www.foodrepublic.com/2012/01/21/pasta-frittata-recipe"
+    },
+    {
+        "label": "Pesto Pasta Salad",
+        "uri": "https://www.marthastewart.com/1155049/pesto-pasta-salad"
+    },
+    {
+        "label": "Guacamole Pasta",
+        "uri": "https://food52.com/recipes/29760-guacamole-pasta"
+    },
+    {
+        "label": "Ramp Pesto Pasta",
+        "uri": "http://norecipes.com/blog/2010/04/20/ramp-pesto-pasta-recipe/"
+    },
+    {
+        "label": "Mushroom Marsala Pasta with Artichokes recipes",
+        "uri": "https://smittenkitchen.com/2009/12/mushroom-marsala-pasta-with-artichokes/"
+    },
+    {
+        "label": "Sizzled Sausage Pasta",
+        "uri": "http://www.bbcgoodfood.com/recipes/1699/"
+    },
+    {
+        "label": "Kimchi Pasta",
+        "uri": "http://norecipes.com/blog/2010/02/02/kimchi-pasta-recipe/"
+    },
+    {
+        "label": "Pasta with Saffron",
+        "uri": "https://food52.com/recipes/27070-pasta-with-saffron"
+    },
+    {
+        "label": "Pasta con Ceci (pasta with chickpeas)",
+        "uri": "https://food52.com/recipes/11912-pasta-con-ceci-pasta-with-chickpeas"
+    }
+]
