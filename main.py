@@ -45,7 +45,7 @@ def run():
         print(recipe['url'])
         recipe_data_list.append(recipe_data)
     
-    filename = '{}_research_results.json'.format(ingredient.replace(' ', '_')) # Generate filename dynamically
+    filename = '{}_research_results.json'.format(ingredient.replace(' ', '_')) 
     with open(filename, 'w') as f: 
         json.dump(recipe_data_list, f, indent=4) 
 
