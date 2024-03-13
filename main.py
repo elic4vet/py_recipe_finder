@@ -33,20 +33,21 @@ def recipe_search(ingredient):
 def run():
     ingredient = input('Enter an ingredient: ')
     results = recipe_search(ingredient)
-    
     recipe_data_list = []
+    
     for result in results:
         recipe = result['recipe']
         recipe_data = {
-            'label': recipe['label'],
-            'uri': recipe['url']
+            'Label': recipe['label'],
+            'Url': recipe['url'],
+            'Ingredients': (recipe['ingredientLines'])
         }
         print(recipe['label'])
         print(recipe['url'])
         recipe_data_list.append(recipe_data)
     
-    filename = '{}_research_results.json'.format(ingredient.replace(' ', '_')) 
-    with open(filename, 'w') as f: 
+    filename = '{}_recipes.json'.format(ingredient.replace(' ', '_')) 
+    with open(filename, 'w', encoding='utf-8') as f: 
         json.dump(recipe_data_list, f, indent=4) 
 
 run()
