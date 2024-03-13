@@ -19,9 +19,10 @@ suggestions, feel free to come up with your own ideas and extend the program how
 ● Use a different searchable API (suggestions in useful resources)
 
 '''
+
 import requests
 import json
-                
+
 def recipe_search(ingredient):
     app_id = '71b823dc'
     app_key = '47f63a9d595964e03745d3fb261eba0a'
@@ -44,8 +45,8 @@ def run():
         print(recipe['url'])
         recipe_data_list.append(recipe_data)
     
-    with open('research_results.json', 'w') as f: 
+    filename = '{}_research_results.json'.format(ingredient.replace(' ', '_')) # Generate filename dynamically
+    with open(filename, 'w') as f: 
         json.dump(recipe_data_list, f, indent=4) 
 
 run()
-
