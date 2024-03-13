@@ -34,6 +34,7 @@ def recipe_search(ingredient):
 def run():
     ingredient = input('Enter an ingredient: ')
     results = recipe_search(ingredient)
+    
     recipe_data_list = []
     for result in results:
         recipe = result['recipe']
