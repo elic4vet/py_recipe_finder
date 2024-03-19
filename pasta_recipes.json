@@ -1,0 +1,122 @@
+[
+    {
+        "Label": "Pasta alla Gricia Recipe",
+        "Url": "http://www.seriouseats.com/recipes/2009/02/seriously-italian-pasta-alla-gricia-recipe.html",
+        "Ingredients": [
+            "1 1/2 to 2 ounces of guanciale",
+            "2 tablespoons of grated Pecorino Romano",
+            "4 ounces of dried pasta"
+        ]
+    },
+    {
+        "Label": "Pasta Frittata Recipe",
+        "Url": "http://www.foodrepublic.com/2012/01/21/pasta-frittata-recipe",
+        "Ingredients": [
+            "2 cups leftover pasta",
+            "4 eggs beaten",
+            "2 tablespoons butter",
+            "1/2 cup whichever cheese the pasta called for"
+        ]
+    },
+    {
+        "Label": "Pesto Pasta Salad",
+        "Url": "https://www.marthastewart.com/1155049/pesto-pasta-salad",
+        "Ingredients": [
+            "Coarse salt",
+            "1 pound orecchiette pasta",
+            "1 cup store-bought basil pesto (8 ounces)"
+        ]
+    },
+    {
+        "Label": "Guacamole Pasta",
+        "Url": "https://food52.com/recipes/29760-guacamole-pasta",
+        "Ingredients": [
+            "1/2 avocado",
+            "100 grams penne pasta",
+            "1/4 scallion",
+            "1 red tomato",
+            "1/4 splash lemon juiced",
+            "salt to taste"
+        ]
+    },
+    {
+        "Label": "Ramp Pesto Pasta",
+        "Url": "http://norecipes.com/blog/2010/04/20/ramp-pesto-pasta-recipe/",
+        "Ingredients": [
+            "10 ramps roughly chopped",
+            "1/3 C olive oil",
+            "1/4 C toasted pine nuts",
+            "1 oz ricotta insalata",
+            "1/2 tsp kosher salt",
+            "black pepper to taste",
+            "lemon wedges for serving",
+            "16 oz of your favourite pasta cooked according to package directions"
+        ]
+    },
+    {
+        "Label": "Mushroom Marsala Pasta with Artichokes recipes",
+        "Url": "https://smittenkitchen.com/2009/12/mushroom-marsala-pasta-with-artichokes/",
+        "Ingredients": [
+            "3 tablespoons olive oil",
+            "1 small onion, finely chopped",
+            "1 pound mushrooms, trimmed, cleaned and chopped into small bits (I used creminis)",
+            "1 teaspoon kosher salt, plus 1 tablespoon for pasta water",
+            "1 teaspoon kosher salt, plus 1 tablespoon for pasta water",
+            "1 cup dry Marsala wine",
+            "1 pound pasta, Giada recommends thimble-shaped pasta, ditalini, but I think I used snail-shaped or chiocciole",
+            "1/2 pound frozen artichoke hearts, thawed",
+            "3/4 cup grated Parmesan",
+            "1/2 cup cream",
+            "1/2 cup chopped fresh flat-leaf parsley",
+            "1 teaspoon freshly ground black pepper"
+        ]
+    },
+    {
+        "Label": "Sizzled Sausage Pasta",
+        "Url": "http://www.bbcgoodfood.com/recipes/1699/",
+        "Ingredients": [
+            "400.0g pasta shapes",
+            "4.0 tbsp oil from the sun-dried tomato jar",
+            "6 good-quality sausages",
+            "140.0g sun-dried tomatoes",
+            "a generous handful of fresh parsley , coarsely chopped"
+        ]
+    },
+    {
+        "Label": "Kimchi Pasta",
+        "Url": "http://norecipes.com/blog/2010/02/02/kimchi-pasta-recipe/",
+        "Ingredients": [
+            "2 Tbs olive oil",
+            "3 oz thinly sliced pork belly (optional)",
+            "1/2 C chopped kimchi",
+            "1 clove garlic minced",
+            "1 Tbs gochujang",
+            "4 oz dry pasta (linguine or spaghetti work well)",
+            "1 scallion sliced thinly"
+        ]
+    },
+    {
+        "Label": "Pasta with Saffron",
+        "Url": "https://food52.com/recipes/27070-pasta-with-saffron",
+        "Ingredients": [
+            "12 ounces penne or bow-tie pasta (artisanal pasta)",
+            "1 tablespoon unsalted butter",
+            "3/4 cup fresh cream",
+            "1/4 teaspoon teaspoon saffron threads or 1 package of saffron powder",
+            "1/2 cup grated Parmesan cheese",
+            "Salt and freshly ground pepper"
+        ]
+    },
+    {
+        "Label": "Pasta con Ceci (pasta with chickpeas)",
+        "Url": "https://food52.com/recipes/11912-pasta-con-ceci-pasta-with-chickpeas",
+        "Ingredients": [
+            "2 pounds dry chickpeas",
+            "1 pound pasta mista (see introduction)",
+            "oilve oil, extra virgin",
+            "1 bunch parsley, chopped",
+            "salt and pepper",
+            "baking soda"
+        ]
+    }
+]
